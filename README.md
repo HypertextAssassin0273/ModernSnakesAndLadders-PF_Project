@@ -44,7 +44,7 @@
 **main_constructor():**\
 Its main purpose is to make sure that the included functionalities aren't re-used whenever main function is called. Also, it initializes the file names which are used to save In-game variables & strings. Hence, keeping your file names updated even if you have to rename the files in application.\
 \
-**main():-**\
+**main():**\
 This function is the main function. This function contains the control of the whole game. User can switch to resume, new game, load game, save game, tutorial and exit from this function. It calls the respective function as user’s input. In this function user can use pre-defined short cut keys too.\
 \
 **gotoxy(int x,int y):**\
