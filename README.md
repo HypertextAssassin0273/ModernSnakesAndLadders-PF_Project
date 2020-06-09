@@ -121,3 +121,6 @@ It loads the previous game saved by the users even when the application is refre
 \
 **guide():**\
 It reads the Guide Text from a saved file in colorful display.
+
+# Reference for Similar System:-
+<https://www.codewithc.com/snakes-and-ladders-game-project-c/>
