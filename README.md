@@ -1,2 +1,4 @@
 # ModernSnakesAndLadders
-A simple C language project which covers most of the basics in C, using DevC++ compiler. / dd ll//ddk
+A simple C language project which covers most of the basics in C, using DevC++ compiler. #
+dd
+d
