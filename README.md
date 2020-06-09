@@ -1,15 +1,15 @@
 # Basic Features:-
-1) Multiplayer game to involve two players playing simultaneously.
-2) Interactive Main-menu giving various options.
-3) User-friendly Welcome screen.
-4) Dice can be used manually (keeping the essence of traditional board game).
-5) Load game to load previous unfinished game.
-6) Save game to continue the same game at another time.
-7) Tutorial for beginners to understand the flow and control of game. 
-8) Authorized Access (password) for load game to provide privacy.
-9) Basic GUI implementation.
-10) Sound effects.
-11) Short-keys to provide fast reaction time for specific commands.
+- Multiplayer game to involve two players playing simultaneously.
+- Interactive Main-menu giving various options.
+- User-friendly Welcome screen.
+- Dice can be used manually (keeping the essence of traditional board game).
+- Load game to load previous unfinished game.
+- Save game to continue the same game at another time.
+- Tutorial for beginners to understand the flow and control of game. 
+- Authorized Access (password) for load game to provide privacy.
+- Basic GUI implementation.
+- Sound effects.
+- Short-keys to provide fast reaction time for specific commands.
 
 # What’s New? (Improvements)
 - Three new & different Game Modes.\
@@ -42,7 +42,7 @@
 
 # WORKLOAD DISTRIBUTION (FUNCTIONAL WORKING)
 **main_constructor():**\
-Its main purpose is to make sure that the included functionalities aren't re-used whenever main function is called. Also, it initializes the file names which are used to save In-game variables & strings. Hence, keeping your file names updated even if you have to rename the files in application.\
+Its main purpose is to make sure that the included functionalities aren't re-used whenever main function is called. Also, it initializes the file names which are used to save In-game variables & strings. Hence, keeping your file names updated even if you have to rename the files in application.\`\
 **gotoxy(int x,int y):**\
 It take coordinates (x,y) as parameters and point the cursor pointer on designated coordiantes on screen.\
 **welcome_screen():**\
