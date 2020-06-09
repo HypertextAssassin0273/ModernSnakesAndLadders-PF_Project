@@ -36,8 +36,8 @@
 - [x] Save Game Menu will not open if Available Slots are full
 
 # Control/Flow of Game:-
-![HIPO Chart](/images/HIPO_chart.png)\
-![Flow Chart](/images/flow_chart.png)
+![HIPO Chart](Images/HIPO_chart.png)\
+![Flow Chart](Images/flow_chart.png)
 
 # WORKLOAD DISTRIBUTION (FUNCTIONAL WORKING)
 **main_constructor():**\
