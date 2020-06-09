@@ -35,9 +35,9 @@
 - [x] Load Game Menu will  not open if its file is not present
 - [x] Save Game Menu will not open if Available Slots are full
 
-##                         Flow-Chart
+# Flow-Chart
 ![](Images/flow_chart.png)
-##                         HIPO-Chart
+# HIPO-Chart
 ![](Images/HIPO_chart.png)
 
 # WORKLOAD DISTRIBUTION (FUNCTIONAL WORKING)
