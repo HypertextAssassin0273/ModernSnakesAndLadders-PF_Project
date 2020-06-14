@@ -20,9 +20,9 @@
 - To reduce the code size & improve efficiency for locating ‘Cursor-Pointer’ on board, a complex equation is used.
 - Hidden Settings for Filing & some In-game functions.\
     (i.e. Delete Specific Slot, Erase All Data, Rename Files, ON/OFF Sounds)
-- Flexible Menu for load game, displaying saved game name along with it’s game mode. Also, you can select Game names in load game menu (without scrolling up/down) by simply typing the index number in a dialogue box.\
+- Flexible Menu for load game function, displaying all saved games along with it’s game mode. Also, you can select any saved Game in load game menu (without scrolling up/down) by simply typing the index number in a dialogue box.\
     (i.e. To enable the dialogue box, press Ctrl+w)
-- Save Game can now show the Available Slots.
+- Save Game Menu can now show the Available Slots.
 - Calculated Time will now be displayed in Standard Format.
 
 # Fixed In-Game Issues:-
@@ -32,7 +32,7 @@
 - [x] Same user names, game names & previous saved game names will not be accepted
 - [x] Functions are cleared from stack after their complete execution
 - [x] Invalid inputs will no longer be accepted
-- [x] Load Game Menu will  not open if its file is not present
+- [x] Load Game Menu will not open if its respective files are not present
 - [x] Save Game Menu will not open if Available Slots are full
 
 # Flow/Control of Game
