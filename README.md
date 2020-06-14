@@ -117,13 +117,13 @@ It shows hidden settings in main-menu when ‘tab’ is pressed. Moreover, it co
 It takes password character by character from user while hiding from others and then saves in array. After that, it copies to another array that is received as parameter through a pointer.\
 \
 **save_game():**\
-It saves the current game (only) while asking for password (twice for verification) and authentication game name from user. It also makes sure that the game name is not as same as the previous saved games.\
+It saves the current game (only) while asking for password (twice for verification) & authentication game name from user. It also makes sure that the game name is not as same as the previous saved games.\
 \
 **load_game():**\
-It loads the previous game saved by the users even when the application is refreshed, using filing-process. Moreover, it has a menu for the previous load games. Also, it makes sure that password and game-name do match, otherwise an error will be generated.\
+It basically loads the previous game (saved by user) even when the application is refreshed, using filing-process. Moreover, it has a flexible menu for all previous saved games. Also, it makes sure that password and game-name do match, otherwise an error will be generated.\
 \
 **guide():**\
-It reads the Guide Text from a saved file in colorful display.
+It reads the Guide Text from a previously saved data file in colorful display.
 
 # Reference for Existing/Similar System:-
 <https://www.codewithc.com/snakes-and-ladders-game-project-c/>
