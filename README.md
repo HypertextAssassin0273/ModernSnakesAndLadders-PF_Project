@@ -45,7 +45,7 @@
 Its main purpose is to make sure that the included functionalities aren't re-used whenever main function is called. Also, it initializes the file names which are used to save In-game variables & strings. Hence, keeping your file names updated even if you have to rename the files in application.\
 \
 **main():**\
-This function is the main function. This function contains the control of the whole game. User can switch to resume, new game, load game, save game, tutorial and exit from this function. It calls the respective function as user’s input. In this function user can use pre-defined short cut keys too.\
+This function contains the control of the whole game. A user can switch to resume, new game, load game, save game, tutorial and exit from this function by simply scrolling up/down in the menu. It calls the respective functions as user’s input. In this function user can also use pre-defined short cut keys too.\
 \
 **gotoxy(int x,int y):**\
 It take coordinates (x,y) as parameters and point the cursor pointer on designated coordiantes on screen.\
@@ -93,7 +93,7 @@ It displays some printf commands in win-menu.\
 It takes time in seconds as parameter and then converts it to standard time format (i.e 1 hour 20 mins 4 secs). Also, it makes sure to display in correct format sequence, means if any variable (i.e. hour/mins/sec) is 0, then it display the time without that variable.\
 \
 **main_game():**\
-It is the Main function in which all In-game procedures are carried out. Like, when the game starts, the flow of program is transferred to this function. It basically controls all In-game elements (i.e. snakes, ladders, player turns & positions, cursor pointer on game board, game modes, dice settings, limits, win menu, etc). Also, it is responsible for In-game time taken calculations.\
+It is the function in which all In-game procedures are carried out. Like, when the game starts, the flow of program is transferred to this function. It basically controls all In-game elements (i.e. snakes, ladders, player turns & positions, cursor pointer on game board, game modes, dice settings, limits, win menu, etc). Also, it is responsible for In-game time taken calculations.\
 \
 **locate_menu_pointer():**\
 It basically holds the working of Cursor pointer in New Game & Hidden File Settings Menu.\
