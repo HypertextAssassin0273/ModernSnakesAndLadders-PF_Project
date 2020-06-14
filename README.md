@@ -3,8 +3,8 @@
 - Interactive Main-menu giving various options.
 - User-friendly Welcome screen.
 - Dice can be used manually (keeping the essence of traditional board game).
-- Load game to load previous unfinished game.
-- Save game to continue the same game at another time.
+- Load Game function to load previous unfinished game.
+- Save Game function to continue the same game at another time.
 - Tutorial for beginners to understand the flow and control of game. 
 - Authorized Access (password) for load game to provide privacy.
 - Basic GUI implementation.
@@ -20,7 +20,7 @@
 - To reduce the code size & improve efficiency for locating ‘Cursor-Pointer’ on board, a complex equation is used.
 - Hidden Settings for Filing & some In-game functions.\
     (i.e. Delete Specific Slot, Erase All Data, Rename Files, ON/OFF Sounds)
-- Flexible Menu for load game function, displaying all saved games along with its game mode. Also, you can select any saved Game in load game menu (without scrolling up/down) by simply typing the index number in a dialogue box.\
+- Flexible Menu for load game function, displaying all saved games along with their respective game modes. Also, you can select any saved Game in Load Game Menu (without scrolling up/down) by simply typing the index number in a dialogue box.\
     (i.e. To enable the dialogue box, press Ctrl+w)
 - Save Game Menu can now show the Available Slots.
 - Calculated Time will now be displayed in Standard Format.
@@ -32,7 +32,7 @@
 - [x] Same user names, game names & previous saved game names will not be accepted
 - [x] Functions are cleared from stack after their complete execution
 - [x] Invalid inputs will no longer be accepted
-- [x] Load Game Menu will not open if its respective files are not present
+- [x] Load Game Menu will not open if its respective data files are not present
 - [x] Save Game Menu will not open if Available Slots are full
 
 # Flow/Control of Game
