@@ -20,7 +20,7 @@
 - To reduce the code size & improve efficiency for locating ‘Cursor-Pointer’ on board, a complex equation is used.
 - Hidden Settings for Filing & some In-game functions.\
     (i.e. Delete Specific Slot, Erase All Data, Rename Files, ON/OFF Sounds)
-- Flexible Menu for load game function, displaying all saved games along with their respective game modes. Also, you can select any saved Game in Load Game Menu (without scrolling up/down) by simply typing the index number in a dialogue box.\
+- Flexible Menu for load game function, displaying all saved games along with their respective game modes. Also, you can select any saved Game in the Menu (without scrolling up/down) by simply typing the index number in a dialogue box.\
     (i.e. To enable the dialogue box, press Ctrl+w)
 - Save Game Menu can now show the Available Slots.
 - Calculated Time will now be displayed in Standard Format.
