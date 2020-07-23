@@ -39,6 +39,3 @@
 ![](Images/flow_chart.png)
 # HIPO-Chart
 ![](Images/HIPO_chart.png)
-
-# <a href="https://www.codewithc.com/snakes-and-ladders-game-project-c/">Reference for Existing/Similar System</a>
-
