@@ -39,3 +39,5 @@
 ![](Images/flow_chart.png)
 # HIPO-Chart
 ![](Images/HIPO_chart.png)
+#
+**For more info,** [**click here**](https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki)
