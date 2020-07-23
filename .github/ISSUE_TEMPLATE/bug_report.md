@@ -26,11 +26,5 @@ Please complete the following information:
  - OS: [e.g. iOS]
   - Version [e.g. 22]
 
-**Smartphone:** \
-Please complete the following information:
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
-  - Version [e.g. 22]
-
 **Additional context:** \
 Add any other context about the problem here.
