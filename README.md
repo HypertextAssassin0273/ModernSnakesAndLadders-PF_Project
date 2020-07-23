@@ -1,3 +1,4 @@
+#
 # Basic Features:-
 - Multiplayer game to involve two players playing simultaneously.
 - Interactive Main-menu giving various options.
@@ -10,7 +11,7 @@
 - Basic GUI implementation.
 - Sound effects.
 - Short-keys to provide fast reaction time for specific commands.
-
+#
 # What’s New? (Improvements)
 - Three new & different Game Modes.\
     (i.e. Total: classic, modern, time knockdown, turn knockdown)
@@ -24,7 +25,7 @@
     (i.e. To enable the dialogue box, press Ctrl+w)
 - Save Game Menu can now show the Available Slots.
 - Calculated Time will now be displayed in Standard Format.
-
+#
 # Fixed In-Game Issues:-
 - [x] Restricted dice settings to encourage fair game-play with warning message & beep
 - [x] Restricted users from resuming/saving finished game 
@@ -34,9 +35,10 @@
 - [x] Invalid inputs will no longer be accepted
 - [x] Load Game Menu will not open if its respective data files are not present
 - [x] Save Game Menu will not open if Available Slots are full
-
+#
 # Flow/Control of Game
 ![](Images/flow_chart.png)
+#
 # HIPO-Chart
 ![](Images/HIPO_chart.png)
 #
