@@ -1,4 +1,3 @@
-#
 # Basic Features:-
 - Multiplayer game to involve two players playing simultaneously.
 - Interactive Main-menu giving various options.
