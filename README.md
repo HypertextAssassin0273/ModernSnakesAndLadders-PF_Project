@@ -40,5 +40,5 @@
 # HIPO-Chart
 ![](Images/HIPO_chart.png)
 
-# Reference for Existing/Similar System:-
-<https://www.codewithc.com/snakes-and-ladders-game-project-c/>
+# <a href="https://www.codewithc.com/snakes-and-ladders-game-project-c/">Reference for Existing/Similar System</a>
+
