@@ -1,1 +1,2 @@
-**For more info,** [**click here**](https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki)
+**For more info, click any link below:** \
+[**_Wiki_**](https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki)
