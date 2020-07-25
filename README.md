@@ -39,8 +39,14 @@
 - Load Game Menu will not open if its respective data files are not present
 - Save Game Menu will not open if Available Slots are full
 
+---
+
 # Flow/Control of Game:
 ![flow_chart](https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png)
 
+---
+
 # HIPO-Chart:
 ![HIPO_chart](https://user-images.githubusercontent.com/66676402/88356008-e08b7d00-cd7f-11ea-9814-4d16efeb91f7.png)
+
+---
