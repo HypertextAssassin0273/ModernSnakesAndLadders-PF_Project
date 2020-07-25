@@ -24,14 +24,14 @@
 - Save Game Menu can now show the Available Slots.
 - Calculated Time will now be displayed in Standard Format.
 # Fixed In-Game Issues:
-- [x] Restricted dice settings to encourage fair game-play with warning message & beep
-- [x] Restricted users from resuming/saving finished game 
-- [x] Restricted users from resuming/saving at start-up of application
-- [x] Same user names, game names & previous saved game names will not be accepted
-- [x] Functions are cleared from stack after their complete execution
-- [x] Invalid inputs will no longer be accepted
-- [x] Load Game Menu will not open if its respective data files are not present
-- [x] Save Game Menu will not open if Available Slots are full
+- Restricted dice settings to encourage fair game-play with warning message & beep
+- Restricted users from resuming/saving finished game 
+- Restricted users from resuming/saving at start-up of application
+- Same user names, game names & previous saved game names will not be accepted
+- Functions are cleared from stack after their complete execution
+- Invalid inputs will no longer be accepted
+- Load Game Menu will not open if its respective data files are not present
+- Save Game Menu will not open if Available Slots are full
 # Flow/Control of Game:
 ![flow_chart](https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png)
 # HIPO-Chart:
