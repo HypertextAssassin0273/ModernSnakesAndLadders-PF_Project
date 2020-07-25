@@ -11,6 +11,8 @@
 - Sound effects.
 - Short-keys to provide fast reaction time for specific commands.
 
+---
+
 # What’s New? (Improvements)
 - Three new & different Game Modes.\
     (i.e. Total: classic, modern, time knockdown, turn knockdown)
