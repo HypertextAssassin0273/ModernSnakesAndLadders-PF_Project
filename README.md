@@ -27,6 +27,8 @@
 - Save Game Menu can now show the Available Slots.
 - Calculated Time will now be displayed in Standard Format.
 
+---
+
 # Fixed In-Game Issues:
 - Restricted dice settings to encourage fair game-play with warning message & beep
 - Restricted users from resuming/saving finished game 
