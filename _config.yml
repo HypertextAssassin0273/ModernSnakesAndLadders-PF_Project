@@ -2,12 +2,5 @@ theme: jekyll-theme-slate
 #plugins:
 # - jemoji
 title: Modern Snakes & Ladders (PF PROJECT)
-show_downloads: true
+#show_downloads: true
 baseurl: /ModernSnakesAndLadders-PF_PROJECT
-include:
-- _layouts/default.html
-- _includes/nav.html
-- assets/css/style.scss
-- assets/css/style.scssi
-exclude:
-- assets/(index).html
