@@ -1,3 +1,7 @@
+---
+permalink: /PROJECT_INFO/
+---
+
 ### 1. <a href="/PROJECT_INFO.md#basic-features">Basic Features</a>
 ### 2. <a href="/PROJECT_INFO.md#whats-new-improvements">What’s New?</a>
 ### 3. <a href="/PROJECT_INFO.md#fixed-in-game-issues">Fixed In-Game Issues</a>
