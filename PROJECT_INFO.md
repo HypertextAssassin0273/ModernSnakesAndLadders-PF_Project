@@ -1,3 +1,11 @@
+### 1. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#basic-features">Basic Features</a>
+### 2. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#whats-new-improvements">What’s New?</a>
+### 3. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#fixed-in-game-issues">Fixed In-Game Issues</a>
+### 4. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#flowcontrol-of-game">Flow/Control of Game</a>
+### 5. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#hipo-chart">HIPO-Chart</a>
+
+---
+
 # Basic Features:
 - Multiplayer game to involve two players playing simultaneously.
 - Interactive Main-menu giving various options.
