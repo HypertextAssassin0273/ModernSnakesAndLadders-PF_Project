@@ -9,3 +9,5 @@ include:
 - _includes/nav.html
 - assets/css/style.scss
 - assets/css/style.scssi
+exclude:
+- assets/(index).html
