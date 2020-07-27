@@ -1,11 +1,3 @@
-### 1. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#basic-features">Basic Features</a>
-### 2. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#whats-new-improvements">What’s New?</a>
-### 3. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#fixed-in-game-issues">Fixed In-Game Issues</a>
-### 4. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#flowcontrol-of-game">Flow/Control of Game</a>
-### 5. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#hipo-chart">HIPO-Chart</a>
-
----
-
 # Basic Features:
 - Multiplayer game to involve two players playing simultaneously.
 - Interactive Main-menu giving various options.
@@ -38,14 +30,14 @@
 ---
 
 # Fixed In-Game Issues:
-- [x] Restricted dice settings to encourage fair game-play with warning message & beep
-- [x] Restricted users from resuming/saving finished game 
-- [x] Restricted users from resuming/saving at start-up of application
-- [x] Same user names, game names & previous saved game names will not be accepted
-- [x] Functions are cleared from stack after their complete execution
-- [x] Invalid inputs will no longer be accepted
-- [x] Load Game Menu will not open if its respective data files are not present
-- [x] Save Game Menu will not open if Available Slots are full
+- Restricted dice settings to encourage fair game-play with warning message & beep
+- Restricted users from resuming/saving finished game 
+- Restricted users from resuming/saving at start-up of application
+- Same user names, game names & previous saved game names will not be accepted
+- Functions are cleared from stack after their complete execution
+- Invalid inputs will no longer be accepted
+- Load Game Menu will not open if its respective data files are not present
+- Save Game Menu will not open if Available Slots are full
 
 ---
 
@@ -58,6 +50,3 @@
 ![HIPO_chart](https://user-images.githubusercontent.com/66676402/88356008-e08b7d00-cd7f-11ea-9814-4d16efeb91f7.png)
 
 ---
-
-**_GOTO:_** [**_HOME_**](https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki)
-#
