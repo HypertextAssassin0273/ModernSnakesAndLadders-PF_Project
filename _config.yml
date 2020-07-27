@@ -5,4 +5,4 @@ theme: jekyll-theme-slate
 baseurl: /ModernSnakesAndLadders-PF_PROJECT
 include:
 - _layouts
-- _includes
+#- _includes
