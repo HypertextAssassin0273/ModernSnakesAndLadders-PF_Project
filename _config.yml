@@ -7,3 +7,4 @@ show_downloads: true
 exclude:
 - _layouts
 - _includes
+- assets/css/style.scss
