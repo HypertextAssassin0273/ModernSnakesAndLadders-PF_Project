@@ -5,3 +5,4 @@ theme: jekyll-theme-cayman
 baseurl: /ModernSnakesAndLadders-PF_PROJECT
 include:
 - _layouts
+- _includes
