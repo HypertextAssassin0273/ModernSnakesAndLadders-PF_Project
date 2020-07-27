@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 plugins:
   - jemoji
 title: Modern Snakes & Ladders (PF PROJECT)
+
+include:
+- _layouts
