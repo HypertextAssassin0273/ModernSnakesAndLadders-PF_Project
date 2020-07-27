@@ -1,5 +1,5 @@
 ### 1. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/blob/gh-pages/PROJECT_INFO.md#basic-features">Basic Features</a>
-### 2. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki/PROJECT-INFO#whats-new-improvements">What’s New?</a>
+### 2. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/blob/gh-pages/PROJECT_INFO.md#whats-new-improvements">What’s New?</a>
 ### 3. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/blob/gh-pages/PROJECT_INFO.md#fixed-in-game-issues">Fixed In-Game Issues</a>
 ### 4. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/blob/gh-pages/PROJECT_INFO.md#flowcontrol-of-game">Flow/Control of Game</a>
 ### 5. <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/blob/gh-pages/PROJECT_INFO.md#hipo-chart">HIPO-Chart</a>
