@@ -4,6 +4,6 @@ plugins:
 title: Modern Snakes & Ladders (PF PROJECT)
 show_downloads: true
 # baseurl: /ModernSnakesAndLadders-PF_PROJECT
-#include:
-#- _layouts
-#- _includes
+exclude:
+- _layouts
+- _includes
