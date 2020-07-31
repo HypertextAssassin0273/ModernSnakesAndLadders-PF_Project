@@ -1,0 +1,89 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+/* Navbar links */
+.btn a {
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Navbar links on mouse-over */
+.btn a:hover {
+  color: rgba(127, 255, 212, 0.8); //Aquamarine
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.3);
+  text-decoration: none;
+}
+
+.btn p2 {
+  display: none;
+  }
+
+.nav a:hover {
+  opacity: 0.7;
+}
+
+.follow_links a:hover {
+  opacity: 0.7;
+}
+
+/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 1470 pixels */
+@media screen and (max-width: 1470px) {
+  .btn a {
+    float: none;
+    display: block;
+  }
+  
+  .btn p1 {
+  display: none;
+  }
+  .btn p2 {
+  display: block;
+  }
+}
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
