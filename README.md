@@ -1,7 +1,9 @@
 ---
 
-## _TO DOWNLOAD THE LATEST VERSION:_
-### <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/archive/v1.0.zip">Click Here</a>
+## _DOWNLOAD THE LATEST VERSION:_
+### <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/archive/v1.0.zip">PROJECT FILES</a>
+### <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT_FILES_AND_WEBSITE/archive/web1.0.zip">WEBSITE TEMPLATE</a>
+
 ---
 ## _FOR PROJECT INFO, CLICK ANY LINK BELOW:_
 ### <a href="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_PROJECT/wiki">Wiki</a>
