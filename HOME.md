@@ -4,7 +4,8 @@ permalink: /
 ---
 
 # Introduction:
-This project is based on the famous traditional board game snake & ladders.\
+This project is based on the famous traditional board game snake & ladders.
+<br>
 The proposed project will overcome the barrier between classic board games and modern games by enhancing the GUI environment to provide better & friendly game play through giving multiplayer option to users to play with a secure account that intrigues the visual and audio effects. Hence catering every need for unique gaming experience.
 
 ---
@@ -25,15 +26,15 @@ The proposed project will overcome the barrier between classic board games and m
 ---
 
 # What’s New? (Improvements)
-- Three new & different Game Modes.\
+- Three new & different Game Modes.<br>
     (i.e. Total: classic, modern, time knockdown, turn knockdown)
-- Separate Dice-Menu with four different settings.\
+- Separate Dice-Menu with four different settings.<br>
     (i.e. auto/manual, single/double dice)
 - Win-Menu will now show turns & positions of both players , along with total time taken in each match.
 - To reduce the code size & improve efficiency for locating ‘Cursor-Pointer’ on board, a complex equation is used.
-- Hidden Settings for Filing & some In-game functions.\
+- Hidden Settings for Filing & some In-game functions.<br>
     (i.e. Delete Specific Slot, Erase All Data, Rename Files, ON/OFF Sounds)
-- Flexible Menu for load game function, displaying all saved games along with their respective game modes. Also, you can select any saved Game in the Menu (without scrolling up/down) by simply typing the index number in a dialogue box.\
+- Flexible Menu for load game function, displaying all saved games along with their respective game modes. Also, you can select any saved Game in the Menu (without scrolling up/down) by simply typing the index number in a dialogue box.<br>
     (i.e. To enable the dialogue box, press Ctrl+w)
 - Save Game Menu can now show the Available Slots.
 - Calculated Time will now be displayed in Standard Format.
