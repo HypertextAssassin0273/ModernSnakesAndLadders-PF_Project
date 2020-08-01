@@ -1,5 +1,4 @@
 ---
-title: Modern Snakes & Ladders (PF PROJECT)
 permalink: /
 ---
 
