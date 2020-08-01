@@ -3,6 +3,7 @@ permalink: /PROJECT_SCREENSHOTS/
 ---
 
 <body>
+  <h1>Project Screenshots:</h1>
   <p>Following are some screenshots taken from the project:</p>
   <button class="accordion"><b><i>1. WELCOME SCREEN</i></b></button>
   <div class="panel">
