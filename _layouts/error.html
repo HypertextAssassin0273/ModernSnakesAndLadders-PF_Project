@@ -26,8 +26,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title <!--| default: site.github.repository_name | default: site.title---> }}</h1>
-      <h2 class="project-tagline">{{ page.description <!--| default: site.github.project_tagline | default: site.description---> }}</h2>
+      <h1 class="project-name">{{ page.title | default: site.github.repository_name | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.github.project_tagline | default: site.description }}</h2>
     
     </header>
 
