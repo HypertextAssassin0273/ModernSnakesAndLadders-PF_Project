@@ -1,4 +1,6 @@
 ---
+title: "Modern Snakes & Ladders (PF PROJECT)"
+description: "A simple C language project which covers most of the basics & includes some unique features, using DevC++"
 permalink: /
 ---
 
