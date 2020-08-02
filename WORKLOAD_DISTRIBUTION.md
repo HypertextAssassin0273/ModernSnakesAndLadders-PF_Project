@@ -15,7 +15,7 @@ permalink: /WORKLOAD_DISTRIBUTION/
   <button class="accordion"><b>2. main()</b></button>
   <div class="panel">
     <br>
-    <p>This function contains the control of the whole game. User can switch to resume, new game, load game, save game, tutorial and exit from this function by simply scrolling up/down in the menu. It calls the respective functions as user’s input. In this function user can also use pre-defined short cut keys too</p>
+    <p>This function contains the control of the whole game. User can switch to resume, new game, load game, save game, tutorial and exit from this function by simply scrolling up/down in the menu. It calls the respective functions as user’s input. In this function user can also use pre-defined short cut keys too.</p>
     <hr>
   </div>
   
@@ -98,6 +98,7 @@ permalink: /WORKLOAD_DISTRIBUTION/
   
   <button class="accordion"><b>14. locate_pointer_on_board(int temp_cp)</b></button>
   <div class="panel">
+    <br>
     <p>It points the cursor pointer on designated position on game board, mainly using gotoxy function. To achieve size reduction in code, a complex mathematical equation is used to track the position of pointer.</p>
     <hr>
   </div>
