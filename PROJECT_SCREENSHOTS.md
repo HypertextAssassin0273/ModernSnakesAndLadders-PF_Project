@@ -45,7 +45,7 @@ img {vertical-align: middle;}
 .text {
   color: #f2f2f2;
   font-size: 15px;
-  padding: 8px 12px;
+  padding: 0px 12px;
   position: absolute;
   bottom: 8px;
   width: 100%;
