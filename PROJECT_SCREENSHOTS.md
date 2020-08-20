@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /PROJECT_SCREENSHOTS/
 ---
 
