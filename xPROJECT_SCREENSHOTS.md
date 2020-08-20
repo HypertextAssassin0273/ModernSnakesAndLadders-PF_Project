@@ -1,5 +1,5 @@
 ---
-permalink: /PROJECT_SCREENSHOTS/
+permalink: /xPROJECT_SCREENSHOTS/
 ---
 
 <body>
