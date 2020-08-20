@@ -3,7 +3,7 @@ permalink: /WORKLOAD_DISTRIBUTION/
 ---
 
 <body>
-  <h1>Workload Distribution:</h1>
+  <h1>Workload Distribution</h1>
   <p>Following are the (improved) functions included in this project:</p>
   <button class="accordion"><b>1. main_constructor()</b></button>
   <div class="panel">
