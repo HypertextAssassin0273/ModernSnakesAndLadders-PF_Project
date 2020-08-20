@@ -31,7 +31,7 @@
       <h1 class="project-name">{{ <!--page.title |---> default: site.title <!--| default: site.github.repository_name---> }}</h1>
       <h2 class="project-tagline">{{ <!--page.description |---> default: site.description <!--| default: site.github.project_tagline---> }}</h2>
       
-      {% include header.html %}
+      {% include header/header.html %}
     
     </header>
 
@@ -40,7 +40,7 @@
       
       <footer class="site-footer">
         
-        {% include footer.html %}
+        {% include footer/footer.html %}
         
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
