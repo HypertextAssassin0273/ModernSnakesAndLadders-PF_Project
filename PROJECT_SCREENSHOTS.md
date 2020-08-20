@@ -55,7 +55,7 @@ img {vertical-align: middle;}
 /* Number text (1/9 etc) */
 .numbertext {
   color: #f2f2f2;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.7);
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
