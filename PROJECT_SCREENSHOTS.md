@@ -80,6 +80,6 @@ permalink: /PROJECT_SCREENSHOTS/
     <span class="dot" onclick="currentSlide(9)"></span>
   </div>
 
-  <script async src="{{ 'assets/js/slideshow.js' }}"></script>
+  <script src="{{ 'assets/js/slideshow.js' }}"></script>
 
 </body>
