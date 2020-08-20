@@ -3,8 +3,7 @@ permalink: /PROJECT_SCREENSHOTS/
 ---
 
 <style>
-* {box-sizing: border-box}
-.mySlides {display: none}
+.mySlides {display: none;}
 img {vertical-align: middle;}
 
 /* Slideshow container */
@@ -53,7 +52,7 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
+/* Number text (1/9 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -105,7 +104,7 @@ img {vertical-align: middle;}
 </style>
 
 <body>
-  <h1>Project Screenshots:</h1>
+  <h1>Project Screenshots</h1>
   <p>Following are some screenshots taken from the project:</p>
     
   <div class="slideshow-container">
