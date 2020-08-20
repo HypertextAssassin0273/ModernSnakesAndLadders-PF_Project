@@ -2,6 +2,10 @@
 permalink: /PROJECT_SCREENSHOTS/
 ---
 
+<script>
+  {% include scripts/slideshow.js %}
+</script>
+  
 <body>
   <h1 style="margin-top: 0px;">Project Screenshots</h1>
   <p>Following are some screenshots taken from the project:</p>
@@ -64,7 +68,6 @@ permalink: /PROJECT_SCREENSHOTS/
   
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
-  
   </div>
   <br>
   
@@ -79,7 +82,4 @@ permalink: /PROJECT_SCREENSHOTS/
     <span class="dot" onclick="currentSlide(8)"></span>
     <span class="dot" onclick="currentSlide(9)"></span>
   </div>
-
-  <script>{% include scripts/slideshow.js %}</script>
-
 </body>
