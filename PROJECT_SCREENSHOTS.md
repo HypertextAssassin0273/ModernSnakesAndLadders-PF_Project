@@ -102,7 +102,7 @@ img {vertical-align: middle;}
 }
 </style>
 <body>
-  <h1>Project Screenshots</h1>
+  <h1 style="margin-top: 0px;">Project Screenshots</h1>
   <p>Following are some screenshots taken from the project:</p>
     
   <div class="slideshow-container">
