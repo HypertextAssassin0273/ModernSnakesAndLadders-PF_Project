@@ -80,6 +80,6 @@ permalink: /PROJECT_SCREENSHOTS/
     <span class="dot" onclick="currentSlide(9)"></span>
   </div>
 
-  <script src="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_Project/blob/gh-pages-copy/assets/js/slideshow.js"></script>
+  <script async src="https://github.com/HypertextAssassin0273/ModernSnakesAndLadders-PF_Project/blob/gh-pages-copy/assets/js/slideshow.js"></script>
 
 </body>
