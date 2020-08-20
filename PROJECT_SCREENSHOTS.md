@@ -1,0 +1,3 @@
+---
+permalink: /PROJECT_SCREENSHOTS/
+---
