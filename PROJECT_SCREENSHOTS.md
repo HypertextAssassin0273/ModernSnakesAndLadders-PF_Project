@@ -80,6 +80,6 @@ permalink: /PROJECT_SCREENSHOTS/
     <span class="dot" onclick="currentSlide(9)"></span>
   </div>
 
-  <script>{% include assets/js/slideshow.js %}</script>
+  <script>{% include scripts/slideshow.js %}</script>
 
 </body>
