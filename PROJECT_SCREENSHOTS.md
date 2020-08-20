@@ -1,7 +1,6 @@
 ---
 permalink: /PROJECT_SCREENSHOTS/
 ---
-
 <style>
 .mySlides {display: none;}
 img {vertical-align: middle;}
@@ -102,7 +101,6 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 </style>
-
 <body>
   <h1>Project Screenshots</h1>
   <p>Following are some screenshots taken from the project:</p>
