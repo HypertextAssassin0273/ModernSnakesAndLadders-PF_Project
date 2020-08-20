@@ -2,14 +2,14 @@
 permalink: /
 ---
 
-<h1>Introduction:</h1>
+<h1>Introduction</h1>
 This project is based on the famous traditional board game "Snake & Ladders".
 <br>
 It overcomes the barrier between classic board games and modern games by enhancing the GUI environment to provide better & friendly game play through giving multiplayer option to users to play with a secure account that intrigues the visual & audio effects. Hence, catering every need for unique gaming experience.
 
 ---
 
-# Basic Features:
+# Basic Features
 - Multiplayer game to involve two players playing simultaneously.
 - Interactive Main-menu giving various options.
 - User-friendly Welcome screen.
@@ -40,7 +40,7 @@ It overcomes the barrier between classic board games and modern games by enhanci
 
 ---
 
-# Fixed In-Game Issues:
+# Fixed In-Game Issues
 - Restricted dice settings to encourage fair game-play with warning message & beep
 - Restricted users from resuming/saving finished game 
 - Restricted users from resuming/saving at start-up of application
@@ -52,10 +52,10 @@ It overcomes the barrier between classic board games and modern games by enhanci
 
 ---
 
-# Flow/Control of Game:
+# Flow/Control of Game
 ![flow_chart](https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png)
 
 ---
 
-# HIPO-Chart:
+# HIPO-Chart
 ![HIPO_chart](https://user-images.githubusercontent.com/66676402/88356008-e08b7d00-cd7f-11ea-9814-4d16efeb91f7.png)
