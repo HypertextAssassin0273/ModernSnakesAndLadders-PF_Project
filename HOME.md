@@ -2,12 +2,11 @@
 permalink: /
 ---
 
-
-<h1>Introduction</h1>
-This project is based on the famous traditional board game "Snake & Ladders".
-<br>
-<br>
-It overcomes the barrier between classic board games and modern games by enhancing the GUI environment to provide better & friendly game play through giving multiplayer option to users to play with a secure account that intrigues the visual & audio effects. Hence, catering every need for unique gaming experience.
+<details>
+  <summary style="color:#159957;font-size:2em;">Introduction</summary>
+  <br>
+  <p>This project is based on the famous traditional board game "Snake & Ladders".<br><br>It overcomes the barrier between classic board games and modern games by enhancing the GUI environment to provide better & friendly game play through giving multiplayer option to users to play with a secure account that intrigues the visual & audio effects. Hence, catering every need for unique gaming experience.</p>
+</details>
 
 ---
 
