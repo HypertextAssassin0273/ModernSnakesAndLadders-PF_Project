@@ -65,12 +65,15 @@ permalink: /
 ---
 
 <details>
-  <summary style="color:#159957;font-size:2em;"><b>Flow/Control of Game</b></summary>
+  <summary style="color:#159957;font-size:2em;">Flow/Control of Game</summary>
   <br>
   <img src="https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png" />
 </details>
 
 ---
 
-# HIPO-Chart
-![HIPO_chart](https://user-images.githubusercontent.com/66676402/88356008-e08b7d00-cd7f-11ea-9814-4d16efeb91f7.png)
+<details>
+  <summary style="color:#159957;font-size:2em;">HIPO-Chart</summary>
+  <br>
+  <img src="https://user-images.githubusercontent.com/66676402/88356008-e08b7d00-cd7f-11ea-9814-4d16efeb91f7.png" />
+</details>
