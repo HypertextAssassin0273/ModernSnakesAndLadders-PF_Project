@@ -64,8 +64,11 @@ permalink: /
 
 ---
 
-# Flow/Control of Game
-![flow_chart](https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png)
+<details>
+  <summary style="color:#159957;font-size:2em;"><b>Flow/Control of Game</b></summary>
+  <br>
+  <img src="https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png" />
+</details>
 
 ---
 
