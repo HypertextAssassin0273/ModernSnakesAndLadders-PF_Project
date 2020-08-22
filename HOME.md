@@ -2,6 +2,7 @@
 permalink: /
 ---
 
+
 <h1>Introduction</h1>
 This project is based on the famous traditional board game "Snake & Ladders".
 <br>
@@ -10,19 +11,24 @@ It overcomes the barrier between classic board games and modern games by enhanci
 
 ---
 
-# Basic Features
-- Multiplayer game to involve two players playing simultaneously.
-- Interactive Main-menu giving various options.
-- User-friendly Welcome screen.
-- Dice can be used manually (keeping the essence of traditional board game).
-- Load Game function to load previous unfinished game.
-- Save Game function to continue the same game at another time.
-- Tutorial for beginners to understand the flow and control of game. 
-- Authorized Access (password) for load game to provide privacy.
-- Basic GUI implementation.
-- Sound effects.
-- Short-keys to provide fast reaction time for specific commands.
-
+<details>
+  <summary><b>Basic Features</b></summary>
+  <br>
+  <ul>
+    <li>Multiplayer game to involve two players playing simultaneously.</li>
+    <li>Interactive Main-menu giving various options.</li>
+    <li>User-friendly Welcome screen.</li>
+    <li>Dice can be used manually (keeping the essence of traditional board game).</li>
+    <li>Load Game function to load previous unfinished game.</li>
+    <li>Save Game function to continue the same game at another time.</li>
+    <li>Tutorial for beginners to understand the flow and control of game.</li>
+    <li>Authorized Access (password) for load game to provide privacy.</li>
+    <li>Basic GUI implementation.</li>
+    <li>Sound effects.</li>
+    <li>Short-keys to provide fast reaction time for specific commands.</li>
+  </ul>
+</details>
+ 
 ---
 
 # What’s New? (Improvements)
