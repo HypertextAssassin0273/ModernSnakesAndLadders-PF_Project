@@ -12,7 +12,7 @@ It overcomes the barrier between classic board games and modern games by enhanci
 ---
 
 <details>
-  <summary style="color:#159957;font-size:2em;"><b>Basic Features</b></summary>
+  <summary style="color:#159957;font-size:2em;">Basic Features</summary>
   <br>
   <ul>
     <li>Multiplayer game to involve two players playing simultaneously.</li>
