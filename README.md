@@ -4,7 +4,7 @@
 
 ## _FOR PROJECT INFO, CLICK ANY LINK BELOW:_
 <h3><a href="https://github.com/HypertextAssassin0273/Modern_Snakes_And_Ladders-PF_Project/wiki">Wiki</a></h3>
-<h3><a href="https://hypertextassassin0273.github.io/Modern_Snakes_And_Ladders-PF_Project/">Website</a> (you can now look the project on it's stunning website)</h3>
+<h3><a href="https://hypertextassassin0273.github.io/Modern_Snakes_And_Ladders-PF_Project/">Website</a></h3>
 
 # 
 **NOTE: Project related files are present in 'main' branch &, Project-Website files are present in 'gh-pages' branch**
